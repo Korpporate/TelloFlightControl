@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">Tello Flight Control</string>
+    <string name="action_about">About</string>
+
+    <!-- Strings related to Settings -->
+    <string-array name="Commands">
+        <item>command</item>
+        <item>speed?</item>
+        <item>battery?</item>
+        <item>time?</item>
+        <item>takeoff</item>
+        <item>land</item>
+        <item>cw 90</item>
+        <item>cw 180</item>
+        <item>cw 360</item>
+        <item>ccw 90</item>
+        <item>ccw 180</item>
+        <item>ccw 360</item>
+        <item>forward 40</item>
+        <item>forward 80</item>
+        <item>back 40</item>
+        <item>back 80</item>
+        <item>left 40</item>
+        <item>left 80</item>
+        <item>right 40</item>
+        <item>right 80</item>
+        <item>up 40</item>
+        <item>up 80</item>
+        <item>down 40</item>
+        <item>down 80</item>
+        <item>speed 25</item>
+        <item>speed 50</item>
+        <item>speed 100</item>
+        <item>flip l</item>
+        <item>flip r</item>
+        <item>flip f</item>
+        <item>flip b</item>
+        <item>flip bl</item>
+        <item>flip rb</item>
+        <item>flip fl</item>
+        <item>flip fr</item>
+    </string-array>
+</resources>
